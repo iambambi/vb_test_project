@@ -1,0 +1,14 @@
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\bin\Debug\net8.0\VB_DevoraLime_Test.exe
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\bin\Debug\net8.0\VB_DevoraLime_Test.deps.json
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\bin\Debug\net8.0\VB_DevoraLime_Test.runtimeconfig.json
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\bin\Debug\net8.0\VB_DevoraLime_Test.dll
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\bin\Debug\net8.0\VB_DevoraLime_Test.pdb
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\VB_DevoraLime_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\VB_DevoraLime_Test.AssemblyInfoInputs.cache
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\VB_DevoraLime_Test.AssemblyInfo.cs
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\VB_DevoraLime_Test.csproj.CoreCompileInputs.cache
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\VB_DevoraLime_Test.dll
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\refint\VB_DevoraLime_Test.dll
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\VB_DevoraLime_Test.pdb
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\VB_DevoraLime_Test.genruntimeconfig.cache
+C:\Users\vakul\source\repos\VB_DevoraLime_Test\VB_DevoraLime_Test\obj\Debug\net8.0\ref\VB_DevoraLime_Test.dll
